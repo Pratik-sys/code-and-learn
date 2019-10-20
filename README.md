@@ -4,6 +4,7 @@
 
 - [Code]()
     - [Ascii_to_int](./ascii_to_int.py)
+    - [string](./string.py)
 - [Theory]()
     - [What are modules? What are packages?]()
 
