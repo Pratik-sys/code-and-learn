@@ -2,9 +2,13 @@
 
 # Solution:
 
-rat = input("enter the ASCII code:") 
-p1 = list(rat)
-r2 = [ord(i) for i in rat]
+def ascii_to_int(inp_string):
+  '''
+  This functions returns the ascii value of the string, character by character
+  '''
+  list_of_char = list(inp_string)
+  list_of_intger = [ord(i) for i in list_of_char]
+  for i , v in enumerate(list_of_intger):
+    print(v, end='')
 
-print(p1)
-print(r2)
+ascii_to_int(input('Enter the the char:'))
