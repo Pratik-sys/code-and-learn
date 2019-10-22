@@ -2,5 +2,11 @@
 
 # Solution:
 
-values = ' '.join([str(i) for i in range(0,100)])
-print(values)
+def string(num1, num2):
+    '''
+    This functions returns the string with the numbers from 0 to 100
+    '''
+    return ''.join([str(i) for i in range(num1, num2)])
+
+string(0,100)
+    
