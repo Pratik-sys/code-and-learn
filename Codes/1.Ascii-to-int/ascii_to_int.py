@@ -2,8 +2,8 @@
 # Question: How to convert a string to a number that consists of letters ASCII code. 
 
 '''
-Input = 'abcd'
-Output = 979899100
+Input : 'abcd'
+Output: 979899100
 '''
 
 # Solution:
@@ -17,4 +17,4 @@ def ascii_to_int(inp_string):
   for i , v in enumerate(list_of_intger):
     print(v, end='')
 
-ascii_to_int(input('Enter the the char:'))
+ascii_to_int("abcd")
