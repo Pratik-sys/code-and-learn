@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Question: How to convert a string to a number that consists of letters ASCII code. Example: 'abcd' -> 979899100. Write a program for this.
 
 # Solution:
