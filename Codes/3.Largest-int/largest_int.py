@@ -8,5 +8,16 @@ Input : B = [56, 31, 40, 9]
 Output: 56
 """
 
+# Solution:
+
+def largest(arr):
+    '''
+    This function returns the the largest numbr from the givn list 
+    '''
+    return max(arr)
+  
+arr =  [14,2,8, 90]
+print(largest(arr))
+
 
 
