@@ -7,6 +7,7 @@
     - [only_even_nums](./Codes/2.Even-only/only_even_nums.py)
      - [largest-int](./Codes/3.Largest-int/largest_int.py)
      - [string](./Codes/4.String-of-numbers/string.py)
+     - [Fibonacci](./Codes/5.Fibonacci/fibonacci.py)
 - [Theory]()
     - [What are modules? What are packages?](./Theory/modules&packages.md)
 

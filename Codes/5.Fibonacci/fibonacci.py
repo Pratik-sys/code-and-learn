@@ -5,3 +5,17 @@
 Input: 9
 Output : 34
 """
+def fib(n):
+    '''
+    This function returns the the fibonaaci series
+    '''
+    if n < 0 :
+        print("we don't do that here")
+    elif n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fib(n-1) + fib(n-2)
+
+print(fib(9))
