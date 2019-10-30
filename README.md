@@ -18,6 +18,8 @@
         - [Method1 Using recursion](./Codes/5.Fibonacci/fibonacci1.py)
         
         - [Methd2 Using Dynamic Programming](./Codes/5.Fibonacci/fibonacci2.py)
+        
+        - [Methd3 Using in-built Cache module](./Codes/5.Fibonacci/fibonacci3.py)
 
 </details>
 
