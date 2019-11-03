@@ -5,10 +5,15 @@
 Expected Output: {2:4,3:9....20:400}
 '''
 def square_print():
-    '''
-    Print the Key value pair, don't return anything
-    '''
-    pass
+    d = {}
+    for i in range(1,21):
+        d[i] =  i**2
+    return list(d.items())
+
+
+print(square_print())
+
+
 
 
 
