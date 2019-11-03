@@ -16,7 +16,7 @@
 
 
 
-### Fibonaaci Series:
+### Fibonacci Series:
 - [Method1 Using recursion](./Codes/5.Fibonacci/1.fibonacci.py)
 
 - [Methd2 Using Dynamic Programming](./Codes/5.Fibonacci/2.fibonacci.py)
