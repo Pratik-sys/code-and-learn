@@ -23,11 +23,19 @@
 
 </details>
 
-- [Theroy]()
+- [Theory]()
 
     - [What are modules? What are packages?](./Theory/modules&packages.md)
+    - [What Does The *Args/**kwargs Do In Python?]()
+    - [What is difference between Mutable and Immutable data structures?]()
+    - [When to use Continue/Break in a program?]()
 
 
+
+### References
+#### Python
+- [Powerful built-in Functions](https://docs.python.org/3/library/functions.html#built-in-functions)
+- [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 
 #### Run your code in terminal
