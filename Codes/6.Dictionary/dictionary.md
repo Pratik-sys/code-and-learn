@@ -3,7 +3,7 @@
 - The following is an overview of methods that can be applied to the dictioonary:
 
 ## d.clear
- > lears all the Dictionary
+ > Clears all the Dictionary
 
  ```bash
  >>> d = {'alex':23,'martin':21,'andrew':22,'keanu':25}

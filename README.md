@@ -27,6 +27,7 @@
 
 - [What are modules? What are packages?](./Theory/modules&packages.md)
 - [What are Built-in Dictionary Methods?](./Codes/6.Dictionary/dictionary.md)
+- [What are the List methods?](./Codes/7.Lists/list.md)
 - [What Does The *Args/**kwargs Do In Python?]()
 - [What is difference between Mutable and Immutable data structures?]()
 - [When to use Continue/Break in a program?]()
