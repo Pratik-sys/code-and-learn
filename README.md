@@ -1,9 +1,8 @@
-# Code-and-Learn
+# Code-and-Learn :man_technologist:
 
 > This repository makes an attempt to tackle the basic problems and theory concepts that revolves around python.
 -------------------------------------------------------
-### Codes :computer: :desktop_computer:
-
+### Codes :computer:
 - [Ascii_to_int](./Codes/1.Ascii-to-int/ascii_to_int.py)
 
 - [only_even_nums](./Codes/2.Even-only/only_even_nums.py)
@@ -22,7 +21,7 @@
 
 -----------------------------------------------------------    
 
-### Theory :open_book: :note_book:
+### Theory :notebook:
 
 - [What are modules? What are packages?](./Theory/modules&packages.md)
 - [What are Built-in Dictionary Methods?](./Codes/6.Dictionary/dictionary.md)
@@ -32,15 +31,15 @@
 - [When to use Continue/Break in a program?]()
 
 ------------------------------------------------------------
-### References
-#### Python
+### References :scroll:
+
+#### Python :snake:
 - [Powerful built-in Functions](https://docs.python.org/3/library/functions.html#built-in-functions)
-- [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) 
 
 
-#### Run your code in terminal
-
-```bash
+#### Run your code in terminal :white_square_button:
+```bash 
 $python3 name_of_program
 ```
-:notebook:
+     
