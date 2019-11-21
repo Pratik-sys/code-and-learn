@@ -12,6 +12,8 @@
 - [string](./Codes/4.String-of-numbers/string.py)
 
 - [Dictionary:Get_Squares](./Codes/6.Dictionary/2.get_squares.py)
+
+- [List_methods](./Codes/7.Lists/List_methods.py)   
 -  **Fibonacci**
     - [Method1 Using recursion](./Codes/5.Fibonacci/1.fibonacci.py)
 
