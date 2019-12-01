@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Problem: Given an int, repeatedly add its digits until the result is one digit.
 
 """
