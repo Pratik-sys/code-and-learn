@@ -15,6 +15,8 @@
 
 - [List_methods](./Codes/7.Lists/List_methods.py)
 - [Maths](./Codes/8.Maths)  
+- [Strings](./Codes/9.Maths)  
+
 -  **Fibonacci**
     - [Method1 Using recursion](./Codes/5.Fibonacci/1.fibonacci.py)
 
