@@ -23,4 +23,15 @@ def online_count(the_dict):
     the_dict : dictionary
     number_of_people online: int
     """
-    pass
+
+    count = 0
+    for i in the_dict.values():
+        if i == "online":
+            count += 1
+    return count
+
+print(online_count({
+    "Alice": "online",
+    "Bob": "offline",
+    "Eve": "online",
+}))

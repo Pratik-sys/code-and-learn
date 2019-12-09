@@ -7,10 +7,12 @@
 """
  For example, calling random_number() some times might first return 42, then 63, then 1.
 """
-
+import random
 
 def random_number():
     """
     return random_num : int
     """
-    pass
+    return (random.randint(0,100))
+
+print(random_number())
