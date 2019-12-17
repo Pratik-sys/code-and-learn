@@ -3,37 +3,26 @@
 > This repository makes an attempt to tackle the basic problems and theory concepts that revolves around python.
 -------------------------------------------------------
 ### Codes :computer:
-- [Ascii_to_int](./Codes/1.Ascii-to-int/ascii_to_int.py)
+- [Ascii_to_int](./Codes/Strings/ascii_to_int.py)
 
-- [only_even_nums](./Codes/2.Even-only/only_even_nums.py)
+- [only_even_nums](./Codes/Basic/only_even_nums.py)
 
-- [largest-int](./Codes/3.Largest-int/largest_int.py)
+- [largest-int](./Codes/Basic/largest_int.py)
 
-- [Dictionary:Get_Squares](./Codes/5.Dictionary/2.get_squares.py)
+- [Dictionary:Get_Squares](./Codes/Dictionary/get_squares.py)
 
-- [List_methods](./Codes/6.Lists/List_methods.py)
+- [Dictionary:Online_Stauts](./Codes/Dictionary/online_status.py)
 
-- [Maths](./Codes/7.Maths) 
+- [Maths](./Codes/Maths) 
 
-- [Strings](./Codes/8.Strings)  
+- [Strings](./Codes/Strings)  
 
 -  **Fibonacci**
-    - [Method1 Using recursion](./Codes/4.Fibonacci/1.fibonacci.py)
+    - [Method1 Using recursion](./Codes/Recursion/fibonacci/fibonacci_using_recursion.py)
 
-    - [Methd2 Using Dynamic Programming](./Codes/4.Fibonacci/2.fibonacci.py)
+    - [Methd2 Using Dynamic Programming](./Codes/Recursion/fibonacci/fibonacci_using_dynamic_programming.py)
 
-    - [Methd3 Using in-built Cache module](./Codes/4.Fibonacci/3.fibonacci.py)
-
------------------------------------------------------------    
-
-### Theory :notebook:
-
-- [What are modules? What are packages?](./Theory/modules&packages.md)
-- [What are Built-in Dictionary Methods?](./Theory/dictionary.md)
-- [What are the List methods?](./Theory/list.md)
-- [What Does The *Args/**kwargs Do In Python?]()
-- [What is difference between Mutable and Immutable data structures?]()
-- [When to use Continue/Break in a program?]()
+    - [Methd3 Using in-built Cache module](./Codes/Recursion/fibonacci/fibonacci_using-built-in_cache.py)
 
 ------------------------------------------------------------
 ### References :scroll:
