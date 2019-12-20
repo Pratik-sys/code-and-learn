@@ -2,6 +2,42 @@
 
 > This repository makes an attempt to tackle the basic problems and theory concepts that revolves around python.
 -------------------------------------------------------
+
+## repo structure
+```
+.
+├── Codes
+│   ├── Basic
+│   │   ├── largest_int.py
+│   │   └── only_even_nums.py
+│   ├── Dictionary
+│   │   ├── get_squares.py
+│   │   └── online_status.py
+│   ├── Lists
+│   │   ├── List_methods.py
+│   │   └── list_xor.py
+│   ├── Maths
+│   │   ├── XOR.md
+│   │   ├── add_int.py
+│   │   ├── difference.py
+│   │   └── power_two.py
+│   ├── Modules
+│   │   └── Randomness.py
+│   ├── Recursion
+│   │   └── Fibonacci
+│   │       ├── fibonacci.md
+│   │       ├── fibonacci_using-built-in_cache.py
+│   │       ├── fibonacci_using_\ dynamic_programming.py
+│   │       └── fibonacci_using_recursion.py
+│   └── Strings
+│       ├── 1.capital_index.py
+│       ├── 2.middle_letter.py
+│       ├── 3.short_code.py
+│       ├── 4.consec_zeroes.py
+│       ├── ascii_to_int.py
+│       └── string_of_number.py
+└── README.md
+```
 ### Codes :computer:
 - [Ascii_to_int](./Codes/Strings/ascii_to_int.py)
 
@@ -37,3 +73,4 @@
 $python3 name_of_program
 ```
      
+
