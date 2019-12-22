@@ -47,7 +47,7 @@
 
 - [Dictionary:Get_Squares](./Codes/Dictionary/get_squares.py)
 
-- [Dictionary:Online_Stauts](./Codes/Dictionary/online_status.py)
+- [Dictionary:Online_Stauts](./Codes/Dictionary/online_status.py) 
 
 - [Maths](./Codes/Maths) 
 
