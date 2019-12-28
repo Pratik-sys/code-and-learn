@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # List XOR
 
 # Define a function named list_xor. Your function should take three parameters: n, list1 and list2.

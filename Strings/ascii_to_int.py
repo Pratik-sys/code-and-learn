@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 # Question: How to convert a string to a number that consists of letters ASCII code. 
 
 '''

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 # Question: Build a string with the numbers from 0 to 100.
 '''
 Input : range (0,100)

@@ -1,3 +1,5 @@
+
+
 # Code-and-Learn :man_technologist:
 > This repository makes an attempt to tackle the basic problems and theory concepts that revolves around python.
 -------------------------------------------------------
@@ -7,41 +9,33 @@
 ```
 .
 ├── Basic
-│   ├── largest_int.py
-│   └── only_even_nums.py
+│   ├── largest_int.py
+│   └── only_even_nums.py
 ├── Dictionary
-│   ├── get_squares.py
-│   └── online_status.py
+│   ├── get_squares.py
+│   └── online_status.py
 ├── Lists
-│   ├── list_methods.py
-│   └── list_xor.py
+│   ├── list_methods.py
+│   └── list_xor.py
 ├── Maths
-│   ├── XOR.md
-│   ├── add_int.py
-│   ├── difference.py
-│   └── power_two.py
+│   ├── XOR.md
+│   ├── add_int.py
 ├── Modules
-│   └── Randomness.py
+│   └── Randomness.py
 ├── README.md
 ├── Recursion
-│   └── Fibonacci
-│       ├── fibonacci.md
-│       ├── fibonacci_using-built-in_cache.py
-│       ├── fibonacci_using_dynamic_programming.py
-│       └── fibonacci_using_recursion.py
+│   └── Fibonacci
+│       ├── fibonacci.md
+│       ├── fibonacci_using-built-in_cache.py
 └── Strings
     ├── ascii_to_int.py
     ├── capital_index.py
-    ├── consec_zeroes.py
-    ├── middle_letter.py
-    ├── short_code.py
-    └── string_of_number.py
 ```
 # Codes :computer:
 
-#### Basic
-<details>
-<summary>Expand it</summary>
+#### Basic 
+<details> 
+<summary>View</summary>
 
 - [largest-int](./Basic/largest_int.py)
 
@@ -50,18 +44,18 @@
 
 #### Dictionary
 <details>
-<summary>Expand it </summary>
+<summary>View</summary>
 
 
 - [Squares](./Dictionary/get_squares.py)
 
-- [Online_Stauts](./Dictionary/online_status.py)
+- [Online_Status](./Dictionary/online_status.py)
 
 </details>
 
 #### Lists
 <details>
-<summary>Expand it </summary>
+<summary>View</summary>
 
 
 - [list_methods](./Lists/list_methods.py)
@@ -72,7 +66,7 @@
 
 #### Maths
 <details>
-<summary>Expand it </summary>
+<summary>View</summary>
 
 
 - [Add_integer](./Maths/add_int.py)
@@ -85,7 +79,7 @@
 
 #### Strings
 <details>
-<summary>Expand it </summary>
+<summary>View</summary>
 
 
 - [Capital_index](./Strings/capital_index.py)
@@ -104,11 +98,11 @@
 
 #### Recursion
 <details>
-<summary>Expand it </summary>
+<summary>View</summary>
 
- ### Fibonacci
+ #### Fibonacci
   <details>
-  <summary>Expand it </summary>
+  <summary>View</summary>
 
   - [Method1 Using recursion](./Recursion/Fibonacci/fibonacci_using_recursion.py)
 
@@ -123,7 +117,7 @@
 
 #### Modules
 <details>
-<summary>Expand it </summary>
+<summary>View</summary>
 
 
 - [Randomness](./Modules/Randomness.py)
@@ -137,9 +131,36 @@
 #### Python :snake:
 - [Powerful built-in Functions](https://docs.python.org/3/library/functions.html#built-in-functions)
 - [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) 
+- [Visualizing your code ](http://pythontutor.com/) 
+- [Online python IDE ](https://repl.it/languages/python3) 
 
 
-#### Run your code in terminal :white_square_button:
-```bash 
-$python3 name_of_program
-```
+
+
+
+### Run your code in your local development environment
+- **Unix**
+    ```bash 
+    $ cd code-and-learn 
+    ```
+
+    ```bash 
+    $ python3 name_of_program  
+    ```
+- **Executable Scripts(Unix)**   
+    ```bash
+     chmod +x my_script.py
+    ```
+    ```bash 
+    ./ my_script.py
+    ```
+----
+- **Windows**  
+    ```bash 
+    C:\users > cd code_and_learn
+    ```
+    ```bash 
+    C:\users > python name_of_program 
+    ```
+----
+

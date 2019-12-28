@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Question
 # Define a function which can print a dictionary where the keys are numbers between 2 and 20 (both included) and the values are square of keys. Bonus for writing another function which only print values. Hint: items()
 

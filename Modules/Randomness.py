@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Randomness
 
 # Define a function, random_number, that takes no parameters. The function must generate a random integer between 1 and 100, both inclusive, and return it.

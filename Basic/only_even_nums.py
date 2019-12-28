@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 # Given a list of numbers, write a python program to print all the even numbers in a given list.
 """
 Input : A = [1,2,3,4,5,6,7,8]

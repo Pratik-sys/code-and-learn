@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Online status
 
 # The aim of this challenge is, given a dictionary of people's online status, to count the number of people who are online.
