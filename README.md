@@ -33,7 +33,7 @@
 ```
 # Codes :computer:
 
-#### Basic 
+### Basic 
 <details> 
 <summary>View</summary>
 
@@ -42,7 +42,7 @@
 - [only_even_nums](./Basic/only_even_nums.py)
 </details>
 
-#### Dictionary
+### Dictionary
 <details>
 <summary>View</summary>
 
@@ -53,7 +53,7 @@
 
 </details>
 
-#### Lists
+### Lists
 <details>
 <summary>View</summary>
 
@@ -64,7 +64,7 @@
 
 </details>
 
-#### Maths
+### Maths
 <details>
 <summary>View</summary>
 
@@ -77,7 +77,7 @@
 
 </details>
 
-#### Strings
+### Strings
 <details>
 <summary>View</summary>
 
@@ -96,26 +96,25 @@
 
 </details>
 
-#### Recursion
+### Recursion
 <details>
 <summary>View</summary>
 
- #### Fibonacci
-  <details>
-  <summary>View</summary>
+ -  <details>
+    <summary>Fibonacci</summary>
 
-  - [Method1 Using recursion](./Recursion/Fibonacci/fibonacci_using_recursion.py)
+    - [Method1 Using recursion](./Recursion/Fibonacci/fibonacci_using_recursion.py)
 
 
-  - [Method2 Using Dynamic Programming](./Recursion/Fibonacci/fibonacci_using_dynamic_programming.py)
+    - [Method2 Using Dynamic Programming](./Recursion/Fibonacci/fibonacci_using_dynamic_programming.py)
   
-  - [Methd3 Using in-built Cache module](./Recursion/Fibonacci/fibonacci_using-built-in_cache.py)
+    - [Methd3 Using in-built Cache module](./Recursion/Fibonacci/fibonacci_using-built-in_cache.py)
 
 
-  </details>
+        </details>
 </details>
 
-#### Modules
+### Modules
 <details>
 <summary>View</summary>
 
