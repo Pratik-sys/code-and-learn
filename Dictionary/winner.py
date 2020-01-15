@@ -14,7 +14,36 @@ We have four Candidates with name as
 The candidates John and Johny get maximum votes.
 Since John is alphabetically smaller, we print it.
 """
+from collections import Counter
 
 
-def winner(input):
-    pass
+def winner(voters):
+    vote_name = Counter(voters)
+    name_vote = {}
+    for value in vote_name.values():
+        name_vote[value] = []
+    for key, value in vote_name.items():
+        name_vote[value].append(key)
+    winner_value = sorted(name_vote, reverse=True)[0]
+    winner_name = sorted(name_vote[winner_value])[0]
+    print(f' The winner is {winner_name}')
+
+
+winner(
+    [
+        "john",
+        "johnny",
+        "jackie",
+        "johnny",
+        "john",
+        "jackie",
+        "jamie",
+        "jamie",
+        "john",
+        "johnny",
+        "jamie",
+        "johnny",
+        "john",
+    ]
+)
+
