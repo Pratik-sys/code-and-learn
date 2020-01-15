@@ -51,6 +51,14 @@
 
 - [Online_Status](./Dictionary/online_status.py)
 
+- [First_Repeated_Words](./Dictionary/first_repeated_word.py)
+
+- [Possible_Words](./Dictionary/possible_words.py)
+
+- [Winner](./Dictionary/winner.py)
+
+
+
 </details>
 
 ### Lists
