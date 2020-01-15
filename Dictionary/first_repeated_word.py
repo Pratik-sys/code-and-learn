@@ -13,7 +13,15 @@ Input : "he had had he"
 Output : he
 """
 
-
+from collections import Counter
 def firstRepeat(input):
-    pass
-    # return
+    new = input.split(' ')
+    dict1 = Counter(new)
+    for value in dict1:
+        if dict1[value]>1:
+            return value
+        else:
+            return "NO_reps_found"
+print(firstRepeat("he had"))
+
+
