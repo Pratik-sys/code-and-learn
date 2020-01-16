@@ -22,6 +22,9 @@ def firstRepeat(input):
             return value
         else:
             return "NO_reps_found"
-print(firstRepeat("he had"))
+print(firstRepeat("he had he"))
+
+print(firstRepeat("I will die trying"))
+
 
 
