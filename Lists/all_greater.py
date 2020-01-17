@@ -8,6 +8,8 @@
 
 
 def all_greater(arr, k):
-    pass
-    # return bool
+    return all(i > k for i in arr)
+
+
+print(all_greater([90, 80, 70, 40, 20, 65], k=30))
 
