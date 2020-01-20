@@ -15,5 +15,8 @@ def pos_max(arr):
     arr : list
     function returns a list of indices of max element
     """
-    pass
-    # return list of index
+    return[i for i, v in enumerate(arr) if v == max(arr)]
+
+print(f'The ouput for the first test case:', pos_max([3,9,1,5,8,9]))
+
+print(f'The ouput for the secon tes case:', pos_max([20,40,80,80,78,80] ))
