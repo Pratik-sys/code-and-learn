@@ -20,3 +20,12 @@ Output
     [1 21 3]
  ]
 """
+
+
+def transpose(x):
+    res = [[x[j][i] for j in range(len(x))] for i in range(len(x[0]))]
+    for r in res:
+        print(r)
+
+print(transpose([[13, 4, 8, 14, 1], [9, 6, 3, 7, 21], [5, 12, 17, 9, 3]]))
+
