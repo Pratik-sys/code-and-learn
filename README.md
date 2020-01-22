@@ -70,6 +70,17 @@
 
 - [list_xor](./Lists/list_xor.py)
 
+- [all_greater](./Lists/all_greater.py)
+
+- [del_dups](./Lists/del_dups.py)
+
+- [index_non_zero](./Lists/index_non_zero.py)
+
+- [pos_of_max](./Lists/pos_of_max.py)
+
+- [transpose](./Lists/transpose.py)
+
+
 </details>
 
 ### Maths
