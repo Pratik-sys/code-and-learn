@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Write a program to verify that in the list all the values are greater than the given
 # number k
 # Wiring at-least one pythonic way/function is mandatory

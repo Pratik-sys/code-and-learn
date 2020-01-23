@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Index of Non-Zero elements in a list
 # Write a program to find positions of all the integers other than 0.
 

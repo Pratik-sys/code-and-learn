@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Write a program that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
 
 # Write at least two different functions to do this

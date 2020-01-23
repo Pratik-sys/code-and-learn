@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Find the positions of maximum element of list.
 # Assume the list  can have multiple maximum elements and hence multiple maximum positions.
 # Return the list with index of max element
