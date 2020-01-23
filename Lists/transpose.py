@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-    
+
 # Given a 2D array A, your task is to convert all rows to columns and columns to rows.
 
 
@@ -24,10 +24,19 @@ Output
 """
 
 
-def transpose(x):
+def transpose1(x):
     res = [[x[j][i] for j in range(len(x))] for i in range(len(x[0]))]
     for r in res:
         print(r)
 
-print(transpose([[13, 4, 8, 14, 1], [9, 6, 3, 7, 21], [5, 12, 17, 9, 3]]))
 
+print(transpose1([[13, 4, 8, 14, 1], [9, 6, 3, 7, 21], [5, 12, 17, 9, 3]]))
+
+
+def transpose2(x):
+    result = map(list, zip(*x))
+    for i in result:
+        print(i)
+
+
+print(transpose2([[13, 4, 8, 14, 1], [9, 6, 3, 7, 21], [5, 12, 17, 9, 3]]))
