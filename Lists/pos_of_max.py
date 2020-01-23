@@ -21,4 +21,4 @@ def pos_max(arr):
 
 print('Ouput for the first test case:', pos_max([3,9,1,5,8,9]))
 
-print('Ouput for the second test case:', pos_max([20,40,80,80,78,80] ))
+print('Output for the second test case:', pos_max([20,40,80,80,78,80] ))
