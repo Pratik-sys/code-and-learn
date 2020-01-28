@@ -88,3 +88,14 @@ print(
     )
 )
 
+import secrets
+import string
+'''
+The secrets module is used for generating random numbers for managing important data such as passwords, account authentication, security tokens, and related secrets, that are cryptographically strong. 
+'''
+def gen_password():
+    alphabets = string.ascii_letters + string.ascii_lowercase + string.ascii_uppercase + string.digits + string.punctuation
+    password =  ''.join (secrets.choice(alphabets) for i in range(10)) 
+    return password 
+
+print(f'"{gen_password()}" is the random generated password')
