@@ -12,4 +12,14 @@ bcd ---> YES
 """
 
 def custom_string(strng):
-    pass
+    lst = list(strng)
+    for i in range(len(lst) - 1):
+        if abs(ord(lst[i]) - ord(lst[i+1])) == 1:
+          continue
+        else:
+            return False
+    return True
+
+print(custom_string("aba"))
+print(custom_string("abaz"))
+print(custom_string("abcdca"))
