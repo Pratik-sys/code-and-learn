@@ -9,5 +9,19 @@
 
 
 def reverse_words(strng):
-    pass
+    words = strng.split(" ")
+    string = []
+    for word in words:
+        string.insert(0, word)
+        " ".join(string)
+    return " ".join(string)
+
+
+print(reverse_words("Dark side of Moon"))
+
+
+def reverse_order(x):
+    return " ".join(x.split()[::-1])
+
+print(reverse_order("Peace is Myth"))
 
