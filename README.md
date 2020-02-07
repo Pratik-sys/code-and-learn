@@ -111,7 +111,11 @@
 
 - [Ascii_to_int](./Strings/ascii_to_int.py)
 
-- [String of number](./Strings/string_of_number.py)
+- [custom_string](./Strings/custom_string.py)
+
+- [del_dups_str](./Strings/del_dups_str.py)
+
+- [reverse_words](./Strings/reverse_words.py)
 
 </details>
 
