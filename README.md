@@ -144,6 +144,12 @@
 
 - [Randomness](./Modules/Randomness.py)
 
+- [password_gen](./Modules/password_gen.py)
+
+- [sorted_random_list](./Modules/sorted_random_list.py)
+
+
+
 
 </details>
 
