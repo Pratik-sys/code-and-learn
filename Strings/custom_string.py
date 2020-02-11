@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Given a string 'S' , u need to tell whether it is 'customs string or not'.
 # A string is called 'customs String' , if distance between adjacent character is 1.
 

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Given a string S. Your task is to remove all duplicates characters from the string S
 #
 # Note:

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Get a sorted list of random integers with unique elements
 # Given lower and upper limits, generate a sorted list of random numbers with unique elements, starting from start to end.
 
