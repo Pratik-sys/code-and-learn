@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def binary_search_recursive(a, x, start=0, end=None):
     """ Efficient program for searching the element in an array 
         with recursive way with O(logn) time complexity"""

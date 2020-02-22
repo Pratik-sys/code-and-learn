@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def binary_search(a,x):
     """Efficient program for searching the element in an array 
        with ittrative way with O(logn) time complexity
