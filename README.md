@@ -131,7 +131,7 @@
 
     - [Method2 Using Dynamic Programming](./Recursion/Fibonacci/fibonacci_using_dynamic_programming.py)
   
-    - [Methd3 Using in-built Cache module](./Recursion/Fibonacci/fibonacci_using-built-in_cache.py)
+    - [Method3 Using in-built Cache module](./Recursion/Fibonacci/fibonacci_using-built-in_cache.py)
 
 
         </details>
@@ -148,9 +148,26 @@
 
 - [sorted_random_list](./Modules/sorted_random_list.py)
 
+</details>
 
 
+### Data Structures
+<details>
+<summary>View</summary>
 
+ -  <details>
+    <summary>Binary Searcch</summary>
+
+    - [Binary search using itterative mehthod](./DataStructures/Binary_Search/Binary_Search_ittrative.py)
+
+    - [Binary search using Recurssive mehthod](./DataStructures/Binary_Search/Binary_search_recursive.py)
+  
+    - [count_occurances_of_duplicates](./DataStructures/Binary_Search/count_occurances_of_duplicates.py)
+
+    - [first_and_last_occurance](./DataStructures/Binary_Search/first_and_last_occurance.py)
+
+
+        </details>
 </details>
 
 ------------------------------------------------------------
