@@ -165,10 +165,22 @@
     - [count_occurances_of_duplicates](./DataStructures/Binary_Search/count_occurances_of_duplicates.py)
 
     - [first_and_last_occurance](./DataStructures/Binary_Search/first_and_last_occurance.py)
+    </details>
+
+-   <details>
+    <summary>Stack</summary>
+
+    - [Stack Implementation](./DataStructures/Stack/Stack.py)
+
+    - [Reverse the string using Stack](./DataStructures/Stack/Reverse_string.py)
+  
+    - [Convert integer to binary using Stack](./DataStructures/Stack/Convert_decimal_integer_to_binary.py)
 
 
         </details>
 </details>
+
+
 
 ------------------------------------------------------------
 ### References :scroll:
