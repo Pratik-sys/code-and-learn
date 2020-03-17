@@ -177,7 +177,15 @@
     - [Convert integer to binary using Stack](./DataStructures/Stack/Convert_decimal_integer_to_binary.py)
 
 
+    </details>
+
+-   <details>
+    <summary>Linked-list</summary>
+
+    - [Linked_list](./DataStructures/Linked-list/linked_list.py)
+
         </details>
+
 </details>
 
 
